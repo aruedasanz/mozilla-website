@@ -1,0 +1,15 @@
+p {
+  color: black;
+  width: 750px;
+}
+
+.quote {
+	color: red;
+}
+
+/*id selector*/
+
+#mainquote{
+	color: green;
+	border: 5px solid black;
+}
